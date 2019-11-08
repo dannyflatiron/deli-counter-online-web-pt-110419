@@ -6,5 +6,5 @@ def line(people_in_line)
   else
     puts "The line is currently empty."
   end
-  binding.pry
+  # binding.pry
 end
